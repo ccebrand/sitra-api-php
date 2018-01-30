@@ -17,5 +17,6 @@
             "Sitra\\ApiClient\\": "src/Sitra/ApiClient",
             "Sitra\\Tests\\": "tests/"
         }
-    }
+    },
+    "minimum-stability":"dev"
 }
